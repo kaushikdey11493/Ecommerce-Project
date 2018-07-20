@@ -10,6 +10,12 @@ Project is done using Advance Java :
                       5. JDBC
                       6. Database used (MySQL)
                       7. JSP
+                      
+Softwares used : 
+        1. Eclipse IDE
+        2. MySQL
+        3. Apache Tompcat
+        4. Ngrok (for hosting and testing purpose)
 
 This is a dynamic project :
       -> View of the page will change , if certain product is available or not .
