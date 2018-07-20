@@ -1,3 +1,3 @@
 # Ecommerce-Project
 
-#         "Accessories-Shop in Style"
+# "Accessories-Shop in Style"
